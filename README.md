@@ -104,7 +104,7 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Red/Blue, Gold/Silver, และ Diamond/Pearl ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo DS
 
-<div align="center"><img height="900" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
+<div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
 
 **<div align="center"><h2>Fig 15: Final Fantasy Insights</h2></div>**
 
@@ -112,14 +112,14 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 โดยภาคที่ถูกจัดจำหน่ายบ่อยที่สุด จะเป็นภาคแรกๆที่ยังคงเล่นบน Platform รุ่นเก่า ซึ่งจะมีการขายพร้อมกันในหลาย Platform อย่าง Playstation, SNES, และ NES
 
-<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2015.png"></div>
+<div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2015.png"></div>
 
 **<div align="center"><h2>Fig 16: Mario Insights</h2></div>**
 
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Super Mario Bros., Mario Kart Wii, และ New Super Mario Bros. ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo 3DS, Gameboy Advance, และ Wii
 ยอดขายที่ได้รับส่วนใหญ่มาจากเกม Mario ที่เป็นแนวตะลุยด่าน ในขณะที่ความหลากหลายในการจัดจำหน่ายบน Platform จะเป็นเกมกีฬามากกว่า เช่น Mario Tennis และ Olympic Games
 
-<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2016.png"></div>
+<div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2016.png"></div>
 
 **<div align="center"><h2>Fig 17: Call of Duty Insights</h2></div>**
 
@@ -127,7 +127,7 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ภาคที่ถูกขายลงบนหลากหลาย Platform มากที่สุดอย่าง Ghosts และ World at War จะอยู่ในช่วงที่อุตสาหกรรมเกมมีการแข่งขันกัน ระหว่างเกมบน PC และ Platform ชั้นนำอย่าง XBOX360, Wii, และ Playstation 3
 
-<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2017.png"></div>
+<div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2017.png"></div>
 
 **<div align="center"><h2>Fig 18: User Score VS Critic Score</h2></div>**
 
