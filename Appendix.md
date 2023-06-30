@@ -4,6 +4,7 @@ Global Video Game Sales & Ratings: <a href="https://www.kaggle.com/datasets/thed
 Credit: THE DEVASTATOR on Kaggle
 
 **<h3>ความหมายของแต่ละหัวข้อ</h3>**
+<ul>
 <li><b>Name</b>: ชื่อเกม</li>
 <li><b>Platform</b>: แพลตฟอร์มเครื่องเกมที่รองรับ</li>
 <li><b>Year_of_Release</b>: ปีที่เกมผลิต</li>
@@ -19,3 +20,5 @@ Credit: THE DEVASTATOR on Kaggle
 <li><b>User_Count</b>: จำนวนผู้เล่นที่ให้คะแนน</li>
 <li><b>Developer</b>: ผู้พัฒนาเกม</li>
 <li><b>Rating</b>: เรทของเกม</li>
+<li><b>manufacturer</b>: ผู้ผลิตเครื่องเกม</li>
+</ul>
