@@ -1,3 +1,5 @@
+![alt text](https://github.com/iznatsu/pandassss/blob/picture/fig%201.png)
+
 **Fig 1: Number of Games by Year**
 
 จากกราฟ จะพบว่า ปีที่มีการขายเกมสูงที่สุดจะอยู่ในช่วง 2018 - 2019 ซึ่งยอดส่วนใหญ่มาจาก Platform ชื่อดังอย่าง Nintendo DS และ Nintendo Wii ตามลำดับ
