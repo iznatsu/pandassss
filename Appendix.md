@@ -8,7 +8,7 @@ Credit: THE DEVASTATOR on Kaggle
 | หัวข้อ | รายละเอียด |
 | ------- | ------- |
 | Name  |  ชื่อเกม |
-| Platform  | แพลตฟอร์มเครื่องเกมที่รองรับ  |
+| Platform  | แพลตฟอร์มเครื่องเล่นเกมที่รองรับ  |
 |  Year_of_Release |  ปีที่เกมวางขาย |
 |  Genre |  ประเภทของเกม |
 |  Publisher |  ผู้จัดจำหน่ายเกม |
@@ -22,5 +22,5 @@ Credit: THE DEVASTATOR on Kaggle
 |  User_Count |  จำนวนผู้เล่นที่ให้คะแนน |
 |  Developer |  ผู้พัฒนาเกม |
 | Rating  | เรทของเกม |
-| Manufacturer | ผู้ผลิตเครื่องเกม |
+| Manufacturer | ผู้ผลิตเครื่องเล่นเกม |
 
