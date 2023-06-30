@@ -44,13 +44,13 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 
 โดยส่วนที่น่าสนใจ คือ เกมประเภท Action, Sports, และ Shooter สามารถสร้างยอดขายได้โดดเด่นในทุกๆภูมิภาค ยกเว้นในญี่ปุ่น ที่เกมประเภท Role-Playing หรือ RPG สร้างยอดขายได้สูงที่สุด โดยเกม Role-Playing จะถูกสร้างจากการ์ตูนชื่อดัง อย่าง Dragon Ball, Final Fantasy, หรือ Digimon
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%207.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%207.png"></div>
 
 **<div align="center"><h2>Fig 8: จำนวนเกมที่วางขายในแต่ละแพลตฟอร์ม</h2></div>**
 
 หากเปรียบเทียบกันระหว่าง Platform จะพบว่า Playstation 2 และ Nintendo DS นั้น มีจำนวนเกมที่สูงที่สุด 
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%208.png"></div>
+<div align="center"><img height="300" src="https://github.com/iznatsu/pandassss/blob/picture/fig%208.png"></div>
 
 **<div align="center"><h2>Fig 9: ยอดขายบนแต่ละแพลตฟอร์ม</h2></div>**
 
@@ -62,7 +62,7 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 
 โดยหากนำบริษัทผู้ผลิตอย่าง Sony (Playstation), Nintendo (Wii & DS), และ Microsoft (XBOX) มาเปรียบเทียบกัน จะพบว่า Platform ที่มาจากญี่ปุ่นอย่าง Nintendo และ Sony มียอดขายในญี่ปุ่นสูงกว่า Microsoft อย่างชัดเจน ซึ่ง Microsoft มียอดขายในอเมริกาเหนือเป็นส่วนใหญ่
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2010.png"></div>
+<div align="center"><img height="300" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2010.png"></div>
 
 **<div align="center"><h2>Fig 11: ยอดขายเกมแต่ละประเภท จาก Top 3 ผู้ผลิต</h2></div>**
 
@@ -82,13 +82,13 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ในขณะที่ฝั่งญี่ปุ่น เกมที่ได้รับยอดขายที่สูงที่สุด คือ Pokemon Red & Blue
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2013.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2013.png"></div>
 
 **<div align="center"><h2>Fig 14: Pokemon Insights</h2></div>**
 
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Red/Blue, Gold/Silver, และ Diamond/Pearl ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo DS
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
+<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
 
 **<div align="center"><h2>Fig 15: Final Fantasy Insights</h2></div>**
 
@@ -96,14 +96,14 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 โดยภาคที่ถูกจัดจำหน่ายบ่อยที่สุด จะเป็นภาคแรกๆที่ยังคงเล่นบน Platform รุ่นเก่า ซึ่งจะมีการขายพร้อมกันในหลาย Platform อย่าง Playstation, SNES, และ NES
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2015.png"></div>
+<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2015.png"></div>
 
 **<div align="center"><h2>Fig 16: Mario Insights</h2></div>**
 
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Super Mario Bros., Mario Kart Wii, และ New Super Mario Bros. ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo 3DS, Gameboy Advance, และ Wii
 ยอดขายที่ได้รับส่วนใหญ่มาจากเกม Mario ที่เป็นแนวตะลุยด่าน ในขณะที่ความหลากหลายในการจัดจำหน่ายบน Platform จะเป็นเกมกีฬามากกว่า เช่น Mario Tennis และ Olympic Games
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2016.png"></div>
+<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2016.png"></div>
 
 **<div align="center"><h2>Fig 17: Call of Duty Insights</h2></div>**
 
@@ -111,13 +111,13 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ภาคที่ถูกขายลงบนหลากหลาย Platform มากที่สุดอย่าง Ghosts และ World at War จะอยู่ในช่วงที่อุตสาหกรรมเกมมีการแข่งขันกัน ระหว่างเกมบน PC และ Platform ชั้นนำอย่าง XBOX360, Wii, และ Playstation 3
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2017.png"></div>
+<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2017.png"></div>
 
 **<div align="center"><h2>Fig 18: User Score VS Critic Score</h2></div>**
 
 สิ่งที่น่าสนใจ คือ Critic Score จะมีคะแนนที่เป็น Minimum Outlier ที่น้อยกว่า User Score อย่างเห็นได้ชัด เนื่องจากเป็นคะแนนจากการวิจารณ์โดยผู้เชี่ยวชาญ ซึ่งอาจจะมีการวิเคราะห์โดยใช้หลักการมากกว่าการให้คะแนนจาก User
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2018.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2018.png"></div>
 
 **<div align="center"><h2>Fig 19: Critic VS User Score ตามประเภทของเกม</h2></div>**
 
@@ -125,17 +125,17 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ในฝั่งของ Critic Score จะพบว่าเกมประเภท Role-Playing มีคะแนนเฉลี่ยต่ำลงมา แต่ยังคงมีคะแนนเฉลี่ยที่สูงกว่าเกมประเภทอื่นๆ
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2019.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2019.png"></div>
 
 **<div align="center"><h2>Fig 20: Critic VS User Score บนแต่ละแพลตฟอร์ม</h2></div>**
 
 Platform เก่าอย่าง DC (Dreamcast) ได้รับคะแนนที่ค่อนข้างสูง เนื่องจากเกมที่ถูกผลิตในช่วงนั้นยังไม่มีหลากหลายมากนั้น ในขณะที่ Platform อื่นๆ มีการให้คะแนนจาก Critic ที่เกาะกลุ่มมากกว่า User เนื่องจากเป็นช่วงที่อุตสาหกรรมเกมและเครื่องเล่นเกมมีการแข่งขันสูงขึ้น
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2020.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2020.png"></div>
 
 **<div align="center"><h2>Fig 21: ความสัมพันธ์ระหว่างยอดขายและ User Score</h2></div>**
 
 จาก Trendline และกราฟ พบว่า เกมที่ได้รับ User Score ที่ดี มีแนวโน้มที่จะได้รับยอดขายที่สูงด้วยเช่นกัน
 
-<div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2021.png"></div>
+<div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2021.png"></div>
 
