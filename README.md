@@ -13,8 +13,12 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 เป็นต้น
 <br>
 รายละเอียดเกี่ยวกับชุดข้อมูลที่ใช้อ้างอิง: <a href="https://github.com/iznatsu/pandassss/blob/main/Appendix.md">คลิกที่นี่</a>
+## 1. สรุปภาพรวมของอุตสาหกรรมเกม
 
-**<div align="center"><h2>1. สรุปภาพรวมของอุตสาหกรรมเกม </h2></div>**
+<details>
+  
+<summary> <h1>สรุปภาพรวมของอุตสาหกรรมเกม</h1> </summary>
+
 ### 1.1 จำนวนเกมที่ถูกผลิตออกมาต่อปี (Fig 1)
 
   จากกราฟ จะพบว่า ปีที่มีการขายเกมสูงที่สุดจะอยู่ในช่วง 2008 - 2009 ซึ่งยอดส่วนใหญ่มาจาก Platform ชื่อดังอย่าง Nintendo DS และ Nintendo Wii ตามลำดับ
@@ -35,6 +39,8 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 
 <div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%203.png"></div>
 
+</details>
+  
 **<div align="center"><h2> 2. การวิเคราะห์ยอดขาย </h2></div>**
 
 ### 2.1 ยอดขายในแต่ละภูมิภาค (Fig 4)
