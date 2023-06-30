@@ -104,7 +104,7 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Red/Blue, Gold/Silver, และ Diamond/Pearl ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo DS
 
-<div align="center"><img height="800" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
+<div align="center"><img height="900" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
 
 **<div align="center"><h2>Fig 15: Final Fantasy Insights</h2></div>**
 
