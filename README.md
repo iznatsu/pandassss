@@ -82,9 +82,9 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 <div align="center"><img height="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/PS2-Versions.jpg"><img height="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Nintendo_DS_Trans.png">
 </div>
 
-### 3.2 ยอดขายบนแต่ละแพลตฟอร์ม (Fig 9)
+### 3.2 ยอดขายของเกมบนแต่ละแพลตฟอร์ม (Fig 9)
 
-หากโฟกัสที่ยอดขาย Playstation 2, Microsoft XBOX360, และ Playstation 3 ได้รับยอดขายที่สูงเป็น 3 อันดับแรก ซึ่งสร้างตลาดในยุโรปและอเมริกาเหนือได้เป็นอย่างดี ในขณะที่ Nintendo DS หรือ Nintendo 3DS นั้น สร้างยอดขายในญี่ปุ่นได้ดีกว่าอย่างมีนัยยะสำคัญ
+หากโฟกัสที่ยอดขายรวมของเกมบน Playstation 2, Microsoft XBOX360, และ Playstation 3 ได้รับยอดขายที่สูงเป็น 3 อันดับแรก ซึ่งสร้างตลาดในยุโรปและอเมริกาเหนือได้เป็นอย่างดี ในขณะที่ Nintendo DS หรือ Nintendo 3DS นั้น สร้างยอดขายในญี่ปุ่นได้ดีกว่าอย่างมีนัยยะสำคัญ
 
 <div align="center"><img height="400" src="https://github.com/iznatsu/pandassss/blob/picture/fig%209.png"></div>
 
