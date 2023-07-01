@@ -1,4 +1,3 @@
-
 # DADS5001 Midterm Project: Insights ของอุตสาหกรรมเกม
 
 Midterm Project นี้ เริ่มมาจากความสนใจใน Data ของอุตสาหกรรมเกม ในระหว่างช่วงปี 1980 - 2019 ซึ่งเป็นช่วงที่อุตสาหกรรมเกมกำลังเกิดขึ้นและเติบโตอย่างก้าวกระโดด เพื่อหาสิ่งที่น่าสนใจที่เกิดขึ้น
@@ -80,6 +79,9 @@ Midterm Project นี้ เริ่มมาจากความสนใจ
 
 <div align="center"><img height="300" src="https://github.com/iznatsu/pandassss/blob/picture/fig%208.png"></div>
 
+<div align="center"><img height="200" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/PS2-Versions.jpg"><img height="200" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Nintendo_DS_Trans.png">
+</div>
+
 ### 3.2 ยอดขายบนแต่ละแพลตฟอร์ม (Fig 9)
 
 หากโฟกัสที่ยอดขาย Playstation 2, Microsoft XBOX360, และ Playstation 3 ได้รับยอดขายที่สูงเป็น 3 อันดับแรก ซึ่งสร้างตลาดในยุโรปและอเมริกาเหนือได้เป็นอย่างดี ในขณะที่ Nintendo DS หรือ Nintendo 3DS นั้น สร้างยอดขายในญี่ปุ่นได้ดีกว่าอย่างมีนัยยะสำคัญ
@@ -118,14 +120,26 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 
 <div align="center"><img height="500" src="https://github.com/iznatsu/pandassss/blob/picture/fig%2013.png"></div>
 
+<div align="center"><img height="250" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Wii-console.jpg"><img height="250" src="https://i5.walmartimages.com/asr/8bf1884e-f55c-49bf-ae59-931d03cbc6ad_1.e5a909852de5890c06cd692e01c78915.jpeg">
+  <h4>VS</h4>
+  <img height="250" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/PS2-Versions.jpg"><img height="150" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Xbox-Console-wDuke-L.jpg">
+</div>
+
 ### 4.2 Pokemon Insights (Fig 14)
 
+<div align="center"><img height="200" src="https://www.denofgeek.com/wp-content/uploads/2019/05/h2x1_gb_pokemonred_engb_image1600w.jpg"><img height="200" src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/game_boy_4/H2x1_GB_PokemonBlue_enGB_image1600w.jpg">
+</div>
+<br>
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Red/Blue, Gold/Silver, และ Diamond/Pearl ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo DS
-
+<br>
+<br>
 <div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2014.png"></div>
 
 ### 4.3 Final Fantasy Insights (Fig 15)
 
+<div align="center"><img height="200" src="https://www.ateam-entertainment.com/en/uploads/20211228154022/20211228_ff7fs_en_01_954944ab8245e1f8622e5eb0ee5eaa8f_e42524298c4582df23fb109d0d4ea78c-1180x664.jpg"><img height="200" src="https://theaureview.com/wp-content/uploads/2020/01/H2x1_NSwitch_FinalFantasyXX2HDRemaster_image1600w.jpg">
+</div>
+<br>
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ VII, X, และ VIII ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Playstation ไม่ว่าจะเป็น Playstation 2, PSP, และ Playstation
 
 โดยภาคที่ถูกจัดจำหน่ายบ่อยที่สุด จะเป็นภาคแรกๆที่ยังคงเล่นบน Platform รุ่นเก่า ซึ่งจะมีการขายพร้อมกันในหลาย Platform อย่าง Playstation, SNES, และ NES
@@ -133,14 +147,18 @@ Sony ครองตลาดเกม Action กับ Sports อย่าง�
 <div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2015.png"></div>
 
 ### 4.4 Mario Insights (Fig 16)
-
+<div align="center"><img height="200" src="https://i.ytimg.com/vi/_VDAd77B-RE/maxresdefault.jpg"><img height="200" src="https://i.pcmag.com/imagery/reviews/01X8O4obTxcq2x4EXTpRNGB-3..v1569482849.jpg">
+</div>
+<br>
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Super Mario Bros., Mario Kart Wii, และ New Super Mario Bros. ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform Nintendo 3DS, Gameboy Advance, และ Wii
 ยอดขายที่ได้รับส่วนใหญ่มาจากเกม Mario ที่เป็นแนวตะลุยด่าน ในขณะที่ความหลากหลายในการจัดจำหน่ายบนแพลตฟอร์มจะเป็นเกมกีฬามากกว่า เช่น Mario Tennis และ Olympic Games
 
 <div align="center"><img src="https://github.com/iznatsu/pandassss/blob/picture/fig%2016.png"></div>
 
 ### 4.5 Call of Duty Insights (Fig 17)
-
+<div align="center"><img height="200" src="https://cdn.cloudflare.steamstatic.com/steam/apps/42700/capsule_616x353.jpg"><img height="200" src="https://www.callofduty.com/content/dam/activision/callofduty/blackops/master/dlc/dlc1_screenshots_kowloon_large_2.jpg">
+</div>
+<br>
 ภาคที่ได้รับความนิยมสุด 3 อันดับแรก คือ Black Ops, Modern Warfare 3 และ Black Ops II ตามลำดับ ส่วนใหญ่จะถูกขายบน Platform XBOX360, PC, และ Playstation 3 มากที่สุด ซึ่งจะเป็น Platform ในฝั่งอเมริกาเป็นส่วนใหญ่
 
 ภาคที่ถูกขายลงบนหลากหลาย Platform มากที่สุดอย่าง Ghosts และ World at War จะอยู่ในช่วงที่อุตสาหกรรมเกมมีการแข่งขันกัน ระหว่างเกมบน PC และ Platform ชั้นนำอย่าง XBOX360, Wii, และ Playstation 3
